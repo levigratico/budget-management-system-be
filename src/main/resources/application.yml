@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /levbev/budgetmanagement
+  port:
+    8080
+spring:
+  profiles:
+    default: local
